@@ -1,0 +1,20 @@
+dependencies: \
+  /Users/Frank/FrankShe/MyGame/cocos2d/cocos/network/CCDownloader-apple.mm \
+  /Users/Frank/FrankShe/MyGame/cocos2d/build/../cocos/network/CCDownloader-apple.h \
+  /Users/Frank/FrankShe/MyGame/cocos2d/build/../cocos/network/CCIDownloaderImpl.h \
+  /Users/Frank/FrankShe/MyGame/cocos2d/build/../cocos/base/CCConsole.h \
+  /Users/Frank/FrankShe/MyGame/cocos2d/build/../cocos/base/CCRef.h \
+  /Users/Frank/FrankShe/MyGame/cocos2d/build/../cocos/platform/CCPlatformMacros.h \
+  /Users/Frank/FrankShe/MyGame/cocos2d/build/../cocos/base/ccConfig.h \
+  /Users/Frank/FrankShe/MyGame/cocos2d/build/../cocos/platform/CCPlatformConfig.h \
+  /Users/Frank/FrankShe/MyGame/cocos2d/build/../cocos/platform/CCPlatformDefine.h \
+  /Users/Frank/FrankShe/MyGame/cocos2d/build/../cocos/platform/ios/CCPlatformDefine-ios.h \
+  /Users/Frank/FrankShe/MyGame/cocos2d/build/../cocos/base/ccMacros.h \
+  /Users/Frank/FrankShe/MyGame/cocos2d/build/../cocos/platform/CCStdC.h \
+  /Users/Frank/FrankShe/MyGame/cocos2d/build/../cocos/platform/ios/CCStdC-ios.h \
+  /Users/Frank/FrankShe/MyGame/cocos2d/build/../cocos/base/ccRandom.h \
+  /Users/Frank/FrankShe/MyGame/cocos2d/build/../cocos/network/CCDownloader.h \
+  /Users/Frank/FrankShe/MyGame/cocos2d/build/../cocos/deprecated/CCString.h \
+  /Users/Frank/FrankShe/MyGame/cocos2d/build/../cocos/deprecated/CCArray.h \
+  /Users/Frank/FrankShe/MyGame/cocos2d/build/../cocos/base/ccCArray.h \
+  /Users/Frank/FrankShe/MyGame/cocos2d/build/../cocos/base/CCDataVisitor.h

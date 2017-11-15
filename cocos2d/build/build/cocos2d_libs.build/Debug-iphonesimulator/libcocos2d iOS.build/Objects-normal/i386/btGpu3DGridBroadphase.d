@@ -1,0 +1,20 @@
+dependencies: \
+  /Users/Frank/FrankShe/MyGame/cocos2d/external/bullet/BulletMultiThreaded/btGpu3DGridBroadphase.cpp \
+  /Users/Frank/FrankShe/MyGame/cocos2d/build/../external/bullet/BulletMultiThreaded/btGpuDefines.h \
+  /Users/Frank/FrankShe/MyGame/cocos2d/build/../external/bullet/BulletMultiThreaded/btGpuUtilsSharedDefs.h \
+  /Users/Frank/FrankShe/MyGame/cocos2d/build/../external/bullet/BulletMultiThreaded/btGpuUtilsSharedCode.h \
+  /Users/Frank/FrankShe/MyGame/cocos2d/build/../external/bullet/LinearMath/btAlignedAllocator.h \
+  /Users/Frank/FrankShe/MyGame/cocos2d/build/../external/bullet/LinearMath/btScalar.h \
+  /Users/Frank/FrankShe/MyGame/cocos2d/build/../external/bullet/LinearMath/btQuickprof.h \
+  /Users/Frank/FrankShe/MyGame/cocos2d/build/../external/bullet/BulletCollision//BroadphaseCollision/btOverlappingPairCache.h \
+  /Users/Frank/FrankShe/MyGame/cocos2d/build/../external/bullet/BulletCollision//BroadphaseCollision/btBroadphaseInterface.h \
+  /Users/Frank/FrankShe/MyGame/cocos2d/build/../external/bullet/BulletCollision//BroadphaseCollision/btBroadphaseProxy.h \
+  /Users/Frank/FrankShe/MyGame/cocos2d/build/../external/bullet/LinearMath/btVector3.h \
+  /Users/Frank/FrankShe/MyGame/cocos2d/build/../external/bullet/LinearMath/btMinMax.h \
+  /Users/Frank/FrankShe/MyGame/cocos2d/build/../external/bullet/BulletCollision//BroadphaseCollision/btOverlappingPairCallback.h \
+  /Users/Frank/FrankShe/MyGame/cocos2d/build/../external/bullet/LinearMath/btAlignedObjectArray.h \
+  /Users/Frank/FrankShe/MyGame/cocos2d/external/bullet/BulletMultiThreaded/btGpu3DGridBroadphaseSharedDefs.h \
+  /Users/Frank/FrankShe/MyGame/cocos2d/external/bullet/BulletMultiThreaded/btGpu3DGridBroadphaseSharedTypes.h \
+  /Users/Frank/FrankShe/MyGame/cocos2d/external/bullet/BulletMultiThreaded/btGpu3DGridBroadphase.h \
+  /Users/Frank/FrankShe/MyGame/cocos2d/build/../external/bullet/BulletCollision//BroadphaseCollision/btSimpleBroadphase.h \
+  /Users/Frank/FrankShe/MyGame/cocos2d/external/bullet/BulletMultiThreaded/btGpu3DGridBroadphaseSharedCode.h
